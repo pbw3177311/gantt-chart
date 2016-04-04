@@ -1,0 +1,23 @@
+span {
+	display: inline-block;
+	width: 150px;
+}
+.name {	
+	height: 35px;
+}
+
+.bar {
+	display: block;
+	margin-top: 7px;
+	height: 20px;
+	width: 1000px;
+	border: solid 1px grey;
+}
+img.space {
+	height: 15px;
+}
+
+img.duration {
+	height: 15px;
+	width: 100px;
+}
